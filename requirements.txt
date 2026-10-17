@@ -1,0 +1,7 @@
+numpy
+scipy
+Pillow
+# Gemini on Vertex AI (provides the `vertexai` package used by scripts/gemini_client.py)
+google-cloud-aiplatform
+# Human-review UI (scripts/ui_review.py)
+streamlit

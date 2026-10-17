@@ -1,0 +1,182 @@
+Loading annotations …
+Loading candidates …
+Pilot mode: processing 30 images
+Using Gemini Flash
+Total images to process: 30
+
+Already done: 0, remaining: 30
+
+[1/30] 1050.jpg  (1 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 1 candidates … kept 1/1
+  → kept 1, rejected 0  (running: kept=1, rejected=0)
+
+[2/30] 1053.jpg  (8 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 8 candidates … kept 8/8
+  → kept 8, rejected 0  (running: kept=9, rejected=0)
+
+[3/30] 1084.jpg  (1 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 1 candidates … kept 1/1
+  → kept 1, rejected 0  (running: kept=10, rejected=0)
+
+[4/30] 1085.jpg  (1 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 1 candidates … kept 1/1
+  → kept 1, rejected 0  (running: kept=11, rejected=0)
+
+[5/30] 1087.jpg  (1 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 1 candidates … kept 1/1
+  → kept 1, rejected 0  (running: kept=12, rejected=0)
+
+[6/30] 1106.jpg  (22 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 12 candidates … kept 12/12
+  batch 2: 10 candidates … kept 10/10
+  → kept 22, rejected 0  (running: kept=34, rejected=0)
+
+[7/30] 1123.jpg  (132 candidates)
+  advisory: more_exist=True, confidence=high, est_missed=300
+  batch 1: 12 candidates … kept 12/12
+  batch 2: 12 candidates … kept 12/12
+  batch 3: 12 candidates … kept 12/12
+  batch 4: 12 candidates … kept 12/12
+  batch 5: 12 candidates … kept 12/12
+  batch 6: 12 candidates … kept 12/12
+  batch 7: 12 candidates … kept 12/12
+  batch 8: 12 candidates … kept 12/12
+  batch 9: 12 candidates … kept 12/12
+  batch 10: 12 candidates … kept 12/12
+  batch 11: 12 candidates … kept 12/12
+  → kept 132, rejected 0  (running: kept=166, rejected=0)
+
+[8/30] 1130.jpg  (13 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 12 candidates … kept 12/12
+  batch 2: 1 candidates … kept 0/1
+  → kept 12, rejected 1  (running: kept=178, rejected=1)
+
+[9/30] 1246.jpg  (6 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 6 candidates … kept 6/6
+  → kept 6, rejected 0  (running: kept=184, rejected=1)
+
+[10/30] 1306.jpg  (1 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 1 candidates … kept 1/1
+  → kept 1, rejected 0  (running: kept=185, rejected=1)
+
+[11/30] 1328.jpg  (1 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 1 candidates … kept 0/1
+  → kept 0, rejected 1  (running: kept=185, rejected=2)
+
+[12/30] 1386.jpg  (19 candidates)
+  advisory: more_exist=False, confidence=high, est_missed=0
+  batch 1: 12 candidates … kept 8/12
+  batch 2: 7 candidates … kept 0/7
+  → kept 8, rejected 11  (running: kept=193, rejected=13)
+
+[13/30] 1391.jpg  (1 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 1 candidates … kept 0/1
+  → kept 0, rejected 1  (running: kept=193, rejected=14)
+
+[14/30] 1455.jpg  (5 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 5 candidates … kept 5/5
+  → kept 5, rejected 0  (running: kept=198, rejected=14)
+
+[15/30] 1456.jpg  (4 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 4 candidates … kept 4/4
+  → kept 4, rejected 0  (running: kept=202, rejected=14)
+
+[16/30] 1458.jpg  (11 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 11 candidates … kept 9/11
+  → kept 9, rejected 2  (running: kept=211, rejected=16)
+
+[17/30] 1461.jpg  (2 candidates)
+  advisory: more_exist=True, confidence=high, est_missed=4
+  batch 1: 2 candidates … kept 2/2
+  → kept 2, rejected 0  (running: kept=213, rejected=16)
+
+[18/30] 1462.jpg  (2 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 2 candidates … kept 2/2
+  → kept 2, rejected 0  (running: kept=215, rejected=16)
+
+[19/30] 1464.jpg  (3 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 3 candidates … kept 0/3
+  → kept 0, rejected 3  (running: kept=215, rejected=19)
+
+[20/30] 1467.jpg  (7 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 7 candidates … kept 2/7
+  → kept 2, rejected 5  (running: kept=217, rejected=24)
+
+[21/30] 1493.jpg  (1 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 1 candidates … kept 1/1
+  → kept 1, rejected 0  (running: kept=218, rejected=24)
+
+[22/30] 1497.jpg  (2 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 2 candidates … kept 2/2
+  → kept 2, rejected 0  (running: kept=220, rejected=24)
+
+[23/30] 1509.jpg  (6 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 6 candidates … kept 2/6
+  → kept 2, rejected 4  (running: kept=222, rejected=28)
+
+[24/30] 1572.jpg  (1 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 1 candidates … kept 1/1
+  → kept 1, rejected 0  (running: kept=223, rejected=28)
+
+[25/30] 1636.jpg  (15 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 12 candidates … kept 9/12
+  batch 2: 3 candidates … kept 2/3
+  → kept 11, rejected 4  (running: kept=234, rejected=32)
+
+[26/30] 1668.jpg  (5 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 5 candidates … kept 5/5
+  → kept 5, rejected 0  (running: kept=239, rejected=32)
+
+[27/30] 1762.jpg  (6 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 6 candidates … kept 6/6
+  → kept 6, rejected 0  (running: kept=245, rejected=32)
+
+[28/30] 1768.jpg  (34 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 12 candidates … kept 12/12
+  batch 2: 12 candidates … kept 12/12
+  batch 3: 10 candidates … kept 10/10
+  → kept 34, rejected 0  (running: kept=279, rejected=32)
+
+[29/30] 1772.jpg  (1 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 1 candidates … kept 1/1
+  → kept 1, rejected 0  (running: kept=280, rejected=32)
+
+[30/30] 1861.jpg  (29 candidates)
+  advisory: more_exist=True, confidence=low, est_missed=0
+  batch 1: 12 candidates … kept 12/12
+  batch 2: 12 candidates … kept 12/12
+  batch 3: 5 candidates … kept 5/5
+  → kept 29, rejected 0  (running: kept=309, rejected=32)
+
+
+=== Done ===
+Total kept     : 309
+Total rejected : 32
+Potential file : outputs/review_pipeline/potential_candidates.json
+Filter log     : outputs/review_pipeline/gemini_filter_log.json

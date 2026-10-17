@@ -1,0 +1,816 @@
+{
+  "images_modified": 161,
+  "total_added": 566,
+  "decisions_accept": 566,
+  "decisions_reject": 4896,
+  "decisions_uncertain": 0,
+  "decisions_skip": 0,
+  "decisions_undecided": 0,
+  "per_image": {
+    "1053.jpg": {
+      "original_count": 207,
+      "added": 2,
+      "new_count": 209
+    },
+    "1084.jpg": {
+      "original_count": 198,
+      "added": 1,
+      "new_count": 199
+    },
+    "1085.jpg": {
+      "original_count": 41,
+      "added": 1,
+      "new_count": 42
+    },
+    "1386.jpg": {
+      "original_count": 35,
+      "added": 7,
+      "new_count": 42
+    },
+    "1762.jpg": {
+      "original_count": 166,
+      "added": 6,
+      "new_count": 172
+    },
+    "1768.jpg": {
+      "original_count": 433,
+      "added": 29,
+      "new_count": 462
+    },
+    "1861.jpg": {
+      "original_count": 135,
+      "added": 8,
+      "new_count": 143
+    },
+    "1866.jpg": {
+      "original_count": 17,
+      "added": 1,
+      "new_count": 18
+    },
+    "1874.jpg": {
+      "original_count": 11,
+      "added": 1,
+      "new_count": 12
+    },
+    "1881.jpg": {
+      "original_count": 11,
+      "added": 1,
+      "new_count": 12
+    },
+    "1889.jpg": {
+      "original_count": 17,
+      "added": 1,
+      "new_count": 18
+    },
+    "1894.jpg": {
+      "original_count": 32,
+      "added": 1,
+      "new_count": 33
+    },
+    "1896.jpg": {
+      "original_count": 123,
+      "added": 10,
+      "new_count": 133
+    },
+    "1898.jpg": {
+      "original_count": 149,
+      "added": 8,
+      "new_count": 157
+    },
+    "1903.jpg": {
+      "original_count": 139,
+      "added": 9,
+      "new_count": 148
+    },
+    "1911.jpg": {
+      "original_count": 119,
+      "added": 1,
+      "new_count": 120
+    },
+    "1912.jpg": {
+      "original_count": 46,
+      "added": 1,
+      "new_count": 47
+    },
+    "1920.jpg": {
+      "original_count": 138,
+      "added": 2,
+      "new_count": 140
+    },
+    "1927.jpg": {
+      "original_count": 68,
+      "added": 3,
+      "new_count": 71
+    },
+    "1929.jpg": {
+      "original_count": 86,
+      "added": 6,
+      "new_count": 92
+    },
+    "1933.jpg": {
+      "original_count": 215,
+      "added": 4,
+      "new_count": 219
+    },
+    "1934.jpg": {
+      "original_count": 171,
+      "added": 1,
+      "new_count": 172
+    },
+    "1935.jpg": {
+      "original_count": 175,
+      "added": 10,
+      "new_count": 185
+    },
+    "1937.jpg": {
+      "original_count": 117,
+      "added": 7,
+      "new_count": 124
+    },
+    "1939.jpg": {
+      "original_count": 69,
+      "added": 6,
+      "new_count": 75
+    },
+    "194.jpg": {
+      "original_count": 82,
+      "added": 7,
+      "new_count": 89
+    },
+    "1942.jpg": {
+      "original_count": 163,
+      "added": 9,
+      "new_count": 172
+    },
+    "1944.jpg": {
+      "original_count": 48,
+      "added": 6,
+      "new_count": 54
+    },
+    "1952.jpg": {
+      "original_count": 37,
+      "added": 2,
+      "new_count": 39
+    },
+    "1956.jpg": {
+      "original_count": 1229,
+      "added": 7,
+      "new_count": 1236
+    },
+    "1957.jpg": {
+      "original_count": 39,
+      "added": 1,
+      "new_count": 40
+    },
+    "196.jpg": {
+      "original_count": 85,
+      "added": 2,
+      "new_count": 87
+    },
+    "1960.jpg": {
+      "original_count": 163,
+      "added": 10,
+      "new_count": 173
+    },
+    "1961.jpg": {
+      "original_count": 111,
+      "added": 3,
+      "new_count": 114
+    },
+    "1969.jpg": {
+      "original_count": 134,
+      "added": 4,
+      "new_count": 138
+    },
+    "197.jpg": {
+      "original_count": 77,
+      "added": 6,
+      "new_count": 83
+    },
+    "1976.jpg": {
+      "original_count": 32,
+      "added": 1,
+      "new_count": 33
+    },
+    "1977.jpg": {
+      "original_count": 132,
+      "added": 7,
+      "new_count": 139
+    },
+    "1981.jpg": {
+      "original_count": 159,
+      "added": 13,
+      "new_count": 172
+    },
+    "1983.jpg": {
+      "original_count": 172,
+      "added": 4,
+      "new_count": 176
+    },
+    "1986.jpg": {
+      "original_count": 248,
+      "added": 5,
+      "new_count": 253
+    },
+    "1989.jpg": {
+      "original_count": 148,
+      "added": 7,
+      "new_count": 155
+    },
+    "1990.jpg": {
+      "original_count": 476,
+      "added": 4,
+      "new_count": 480
+    },
+    "1993.jpg": {
+      "original_count": 48,
+      "added": 3,
+      "new_count": 51
+    },
+    "1994.jpg": {
+      "original_count": 313,
+      "added": 15,
+      "new_count": 328
+    },
+    "2012.jpg": {
+      "original_count": 69,
+      "added": 3,
+      "new_count": 72
+    },
+    "2013.jpg": {
+      "original_count": 49,
+      "added": 3,
+      "new_count": 52
+    },
+    "2017.jpg": {
+      "original_count": 104,
+      "added": 1,
+      "new_count": 105
+    },
+    "2021.jpg": {
+      "original_count": 44,
+      "added": 1,
+      "new_count": 45
+    },
+    "2029.jpg": {
+      "original_count": 79,
+      "added": 1,
+      "new_count": 80
+    },
+    "2054.jpg": {
+      "original_count": 63,
+      "added": 1,
+      "new_count": 64
+    },
+    "2072.jpg": {
+      "original_count": 18,
+      "added": 1,
+      "new_count": 19
+    },
+    "2089.jpg": {
+      "original_count": 31,
+      "added": 1,
+      "new_count": 32
+    },
+    "2099.jpg": {
+      "original_count": 19,
+      "added": 1,
+      "new_count": 20
+    },
+    "2138.jpg": {
+      "original_count": 29,
+      "added": 2,
+      "new_count": 31
+    },
+    "2142.jpg": {
+      "original_count": 35,
+      "added": 2,
+      "new_count": 37
+    },
+    "2146.jpg": {
+      "original_count": 23,
+      "added": 1,
+      "new_count": 24
+    },
+    "2147.jpg": {
+      "original_count": 37,
+      "added": 4,
+      "new_count": 41
+    },
+    "215.jpg": {
+      "original_count": 259,
+      "added": 1,
+      "new_count": 260
+    },
+    "2157.jpg": {
+      "original_count": 116,
+      "added": 2,
+      "new_count": 118
+    },
+    "2159.jpg": {
+      "original_count": 621,
+      "added": 19,
+      "new_count": 640
+    },
+    "2168.jpg": {
+      "original_count": 175,
+      "added": 1,
+      "new_count": 176
+    },
+    "217.jpg": {
+      "original_count": 60,
+      "added": 1,
+      "new_count": 61
+    },
+    "2172.jpg": {
+      "original_count": 86,
+      "added": 2,
+      "new_count": 88
+    },
+    "2173.jpg": {
+      "original_count": 169,
+      "added": 4,
+      "new_count": 173
+    },
+    "2175.jpg": {
+      "original_count": 91,
+      "added": 2,
+      "new_count": 93
+    },
+    "2177.jpg": {
+      "original_count": 27,
+      "added": 2,
+      "new_count": 29
+    },
+    "2180.jpg": {
+      "original_count": 223,
+      "added": 1,
+      "new_count": 224
+    },
+    "2182.jpg": {
+      "original_count": 39,
+      "added": 2,
+      "new_count": 41
+    },
+    "2184.jpg": {
+      "original_count": 33,
+      "added": 1,
+      "new_count": 34
+    },
+    "219.jpg": {
+      "original_count": 47,
+      "added": 5,
+      "new_count": 52
+    },
+    "2190.jpg": {
+      "original_count": 23,
+      "added": 2,
+      "new_count": 25
+    },
+    "2191.jpg": {
+      "original_count": 42,
+      "added": 2,
+      "new_count": 44
+    },
+    "2192.jpg": {
+      "original_count": 24,
+      "added": 1,
+      "new_count": 25
+    },
+    "2193.jpg": {
+      "original_count": 32,
+      "added": 1,
+      "new_count": 33
+    },
+    "2194.jpg": {
+      "original_count": 38,
+      "added": 1,
+      "new_count": 39
+    },
+    "2197.jpg": {
+      "original_count": 90,
+      "added": 6,
+      "new_count": 96
+    },
+    "2202.jpg": {
+      "original_count": 99,
+      "added": 3,
+      "new_count": 102
+    },
+    "2206.jpg": {
+      "original_count": 88,
+      "added": 4,
+      "new_count": 92
+    },
+    "2213.jpg": {
+      "original_count": 97,
+      "added": 1,
+      "new_count": 98
+    },
+    "2215.jpg": {
+      "original_count": 55,
+      "added": 1,
+      "new_count": 56
+    },
+    "2216.jpg": {
+      "original_count": 36,
+      "added": 2,
+      "new_count": 38
+    },
+    "2218.jpg": {
+      "original_count": 15,
+      "added": 1,
+      "new_count": 16
+    },
+    "2219.jpg": {
+      "original_count": 356,
+      "added": 24,
+      "new_count": 380
+    },
+    "222.jpg": {
+      "original_count": 65,
+      "added": 6,
+      "new_count": 71
+    },
+    "2223.jpg": {
+      "original_count": 30,
+      "added": 1,
+      "new_count": 31
+    },
+    "2226.jpg": {
+      "original_count": 47,
+      "added": 2,
+      "new_count": 49
+    },
+    "2227.jpg": {
+      "original_count": 11,
+      "added": 1,
+      "new_count": 12
+    },
+    "2232.jpg": {
+      "original_count": 96,
+      "added": 1,
+      "new_count": 97
+    },
+    "2233.jpg": {
+      "original_count": 64,
+      "added": 2,
+      "new_count": 66
+    },
+    "2236.jpg": {
+      "original_count": 98,
+      "added": 3,
+      "new_count": 101
+    },
+    "2237.jpg": {
+      "original_count": 20,
+      "added": 1,
+      "new_count": 21
+    },
+    "2238.jpg": {
+      "original_count": 26,
+      "added": 1,
+      "new_count": 27
+    },
+    "224.jpg": {
+      "original_count": 20,
+      "added": 1,
+      "new_count": 21
+    },
+    "2240.jpg": {
+      "original_count": 54,
+      "added": 2,
+      "new_count": 56
+    },
+    "2246.jpg": {
+      "original_count": 37,
+      "added": 3,
+      "new_count": 40
+    },
+    "2252.jpg": {
+      "original_count": 82,
+      "added": 4,
+      "new_count": 86
+    },
+    "2256.jpg": {
+      "original_count": 59,
+      "added": 1,
+      "new_count": 60
+    },
+    "2257.jpg": {
+      "original_count": 23,
+      "added": 1,
+      "new_count": 24
+    },
+    "2258.jpg": {
+      "original_count": 75,
+      "added": 3,
+      "new_count": 78
+    },
+    "2259.jpg": {
+      "original_count": 174,
+      "added": 10,
+      "new_count": 184
+    },
+    "226.jpg": {
+      "original_count": 78,
+      "added": 1,
+      "new_count": 79
+    },
+    "2261.jpg": {
+      "original_count": 174,
+      "added": 1,
+      "new_count": 175
+    },
+    "2268.jpg": {
+      "original_count": 74,
+      "added": 1,
+      "new_count": 75
+    },
+    "2269.jpg": {
+      "original_count": 11,
+      "added": 2,
+      "new_count": 13
+    },
+    "227.jpg": {
+      "original_count": 25,
+      "added": 1,
+      "new_count": 26
+    },
+    "2271.jpg": {
+      "original_count": 42,
+      "added": 1,
+      "new_count": 43
+    },
+    "2272.jpg": {
+      "original_count": 15,
+      "added": 2,
+      "new_count": 17
+    },
+    "2273.jpg": {
+      "original_count": 165,
+      "added": 10,
+      "new_count": 175
+    },
+    "2276.jpg": {
+      "original_count": 30,
+      "added": 3,
+      "new_count": 33
+    },
+    "2277.jpg": {
+      "original_count": 49,
+      "added": 3,
+      "new_count": 52
+    },
+    "2280.jpg": {
+      "original_count": 157,
+      "added": 2,
+      "new_count": 159
+    },
+    "2284.jpg": {
+      "original_count": 25,
+      "added": 1,
+      "new_count": 26
+    },
+    "2287.jpg": {
+      "original_count": 195,
+      "added": 8,
+      "new_count": 203
+    },
+    "2288.jpg": {
+      "original_count": 18,
+      "added": 2,
+      "new_count": 20
+    },
+    "2291.jpg": {
+      "original_count": 70,
+      "added": 1,
+      "new_count": 71
+    },
+    "2316.jpg": {
+      "original_count": 58,
+      "added": 1,
+      "new_count": 59
+    },
+    "232.jpg": {
+      "original_count": 27,
+      "added": 3,
+      "new_count": 30
+    },
+    "2328.jpg": {
+      "original_count": 262,
+      "added": 3,
+      "new_count": 265
+    },
+    "233.jpg": {
+      "original_count": 126,
+      "added": 2,
+      "new_count": 128
+    },
+    "234.jpg": {
+      "original_count": 38,
+      "added": 3,
+      "new_count": 41
+    },
+    "2342.jpg": {
+      "original_count": 501,
+      "added": 2,
+      "new_count": 503
+    },
+    "2343.jpg": {
+      "original_count": 27,
+      "added": 1,
+      "new_count": 28
+    },
+    "2369.jpg": {
+      "original_count": 240,
+      "added": 1,
+      "new_count": 241
+    },
+    "238.jpg": {
+      "original_count": 20,
+      "added": 1,
+      "new_count": 21
+    },
+    "2387.jpg": {
+      "original_count": 12,
+      "added": 3,
+      "new_count": 15
+    },
+    "2394.jpg": {
+      "original_count": 237,
+      "added": 1,
+      "new_count": 238
+    },
+    "241.jpg": {
+      "original_count": 35,
+      "added": 1,
+      "new_count": 36
+    },
+    "2418.jpg": {
+      "original_count": 19,
+      "added": 1,
+      "new_count": 20
+    },
+    "2425.jpg": {
+      "original_count": 28,
+      "added": 2,
+      "new_count": 30
+    },
+    "2428.jpg": {
+      "original_count": 26,
+      "added": 1,
+      "new_count": 27
+    },
+    "2452.jpg": {
+      "original_count": 40,
+      "added": 2,
+      "new_count": 42
+    },
+    "246.jpg": {
+      "original_count": 30,
+      "added": 1,
+      "new_count": 31
+    },
+    "2467.jpg": {
+      "original_count": 42,
+      "added": 1,
+      "new_count": 43
+    },
+    "2474.jpg": {
+      "original_count": 45,
+      "added": 3,
+      "new_count": 48
+    },
+    "248.jpg": {
+      "original_count": 48,
+      "added": 1,
+      "new_count": 49
+    },
+    "2480.jpg": {
+      "original_count": 381,
+      "added": 22,
+      "new_count": 403
+    },
+    "2489.jpg": {
+      "original_count": 86,
+      "added": 2,
+      "new_count": 88
+    },
+    "2502.jpg": {
+      "original_count": 25,
+      "added": 1,
+      "new_count": 26
+    },
+    "251.jpg": {
+      "original_count": 69,
+      "added": 1,
+      "new_count": 70
+    },
+    "2514.jpg": {
+      "original_count": 72,
+      "added": 1,
+      "new_count": 73
+    },
+    "253.jpg": {
+      "original_count": 192,
+      "added": 6,
+      "new_count": 198
+    },
+    "254.jpg": {
+      "original_count": 74,
+      "added": 2,
+      "new_count": 76
+    },
+    "2545.jpg": {
+      "original_count": 28,
+      "added": 1,
+      "new_count": 29
+    },
+    "255.jpg": {
+      "original_count": 50,
+      "added": 4,
+      "new_count": 54
+    },
+    "2556.jpg": {
+      "original_count": 61,
+      "added": 1,
+      "new_count": 62
+    },
+    "2557.jpg": {
+      "original_count": 65,
+      "added": 2,
+      "new_count": 67
+    },
+    "2566.jpg": {
+      "original_count": 96,
+      "added": 3,
+      "new_count": 99
+    },
+    "2567.jpg": {
+      "original_count": 78,
+      "added": 4,
+      "new_count": 82
+    },
+    "257.jpg": {
+      "original_count": 191,
+      "added": 2,
+      "new_count": 193
+    },
+    "258.jpg": {
+      "original_count": 149,
+      "added": 19,
+      "new_count": 168
+    },
+    "2580.jpg": {
+      "original_count": 75,
+      "added": 3,
+      "new_count": 78
+    },
+    "2584.jpg": {
+      "original_count": 105,
+      "added": 1,
+      "new_count": 106
+    },
+    "2590.jpg": {
+      "original_count": 56,
+      "added": 1,
+      "new_count": 57
+    },
+    "2596.jpg": {
+      "original_count": 260,
+      "added": 3,
+      "new_count": 263
+    },
+    "260.jpg": {
+      "original_count": 33,
+      "added": 1,
+      "new_count": 34
+    },
+    "2600.jpg": {
+      "original_count": 13,
+      "added": 2,
+      "new_count": 15
+    },
+    "2602.jpg": {
+      "original_count": 58,
+      "added": 1,
+      "new_count": 59
+    },
+    "2605.jpg": {
+      "original_count": 34,
+      "added": 2,
+      "new_count": 36
+    },
+    "2607.jpg": {
+      "original_count": 36,
+      "added": 1,
+      "new_count": 37
+    },
+    "261.jpg": {
+      "original_count": 118,
+      "added": 7,
+      "new_count": 125
+    }
+  }
+}

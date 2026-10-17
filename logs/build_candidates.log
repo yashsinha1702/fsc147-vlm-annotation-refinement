@@ -1,0 +1,16 @@
+Loading annotations …
+Loading predictions …
+
+=== Stats ===
+  total_preds: 372176
+  oob: 24927
+  matched_existing: 324995
+  elongated_body: 3954
+  nms_dups: 2150
+  kept: 16150
+  images_with_candidates: 3266
+
+Images with candidates : 3266
+Total kept candidates  : 16150
+
+Saved → outputs/unannotated_candidates_clean.json
